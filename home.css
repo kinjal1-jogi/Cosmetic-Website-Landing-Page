@@ -1,0 +1,502 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 30px;
+}
+
+.logo {
+    width: 150px;
+}
+
+.subheader {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.page {
+    text-decoration: none;
+    color: black;
+    margin: 0px 15px;
+    font-size: 17px;
+}
+
+#icon {
+    margin: 0px 10px;
+}
+
+.searchbar {
+    width: 300px;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 30px;
+    background-color: #f5f5f5;
+    font-size: 14px;
+}
+
+.menuicon {
+    display: block;
+}
+
+.bgimg{
+    background-image: url("../background/0388f9092cf8b46d4c3a84746364a16b.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 450px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.text{
+    padding: 70px 0px 0px 200px;
+}
+
+.subtext{
+    font-size: 12px; 
+    font-weight: 500;
+}
+
+.subtext0{
+    font-size: 40px; 
+    margin-top: 20px;
+}
+
+.subtext1{
+    color: gray; 
+    font-size: 14px;
+}
+.button{
+    color: white;
+    padding: 9px 28px;
+    background-color: black;
+    border-radius: 30px;
+    border: none;
+    margin-top: 12.5px;
+    font-size: 13px;
+}
+
+.button:hover{
+    color: white;
+    padding: 9px 28px;
+    background-color: gray;
+    border-radius: 30px;
+    border: none;
+    margin-top: 12.5px;
+    font-size: 13px;
+}
+
+.box{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.subbox{
+    font-weight: 500;
+    font-size: 40px;
+    margin-top: 80px;
+}
+
+.divbox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.img0{
+    width: 315px;
+}
+
+.subtext2{
+    font-size: 17px; 
+    margin-bottom: 10px;
+}
+
+.img1{
+    width: 75px; 
+    margin: 0%;
+}
+
+.subtext3{
+    margin: 0%; 
+    font-weight: 500;
+}
+
+.bgimg0{
+    background-image: url("../background/cat05.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.bgimg1{
+    background-image: url("../background/cat01.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.bgimg2{
+    background-image: url("../background/cat02.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.bgimg3{
+    background-image: url("../background/cat03.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.button0{
+    background-color: white;
+    border: none;
+    font-size: 17px;
+    font-weight: 500;
+    padding: 15px 35px;
+    border-radius: 30px;
+    margin: 0px 100px 15px 0px;
+}
+
+.button0:hover{
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 17px;
+    font-weight: 500;
+    padding: 15px 35px;
+    border-radius: 30px;
+    margin: 0px 100px 20px 0px;
+}
+.divbox0{
+    width: 363px; 
+    height: 250px;
+}
+.box0{
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    gap: 25px;
+    margin-top: 100px;
+}
+
+.subdivbox1{
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    gap: 25px;
+}
+
+.divbox1{
+    display: flex; 
+    gap: 120px;
+    align-items: center; 
+    margin: 90px 0px 0px 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.img2{
+    width: 650px;
+}
+
+.subtext4{
+    font-size: 14px; 
+    font-weight: 500;
+}
+
+.subtext5{
+    font-size: 50px; 
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+.subtext6{
+    color: gray; 
+    font-size: 17px;
+}
+
+.button1{
+    color: white;
+    padding: 10px 30px;
+    background-color: black;
+    border-radius: 30px;
+    border: none;
+    margin-top: 12.5px;
+    font-size: 17px;
+}
+
+.button1:hover{
+    color: white;
+    padding: 10px 30px;
+    background-color: gray;
+    border-radius: 30px;
+    border: none;
+    margin-top: 12.5px;
+    font-size: 17px;
+}
+
+.text0{
+    color: gray;
+    font-size: 17px;
+}
+
+.text0:hover{
+    color: black;
+    font-size: 17px;
+}
+
+.text1{
+    font-size: 17px;
+}
+
+.box1{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+.bgimg4{
+    background-image: url("../background/parellex.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 150px;
+}
+
+.maintext{
+    padding: 100px 0px 0px 70px;
+}
+
+.mainbox{
+    width: 445px;
+    height: 550px;
+}
+
+.divbox2{
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    margin-top: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.text2{
+    font-weight: 500;
+    font-size: 35px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.button2{
+    border: none;
+    background-color: transparent;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.box2{
+    background-image: url("../background/cms-banner01.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.box3{
+    background-image: url("../background/cms-banner02.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.box4{
+    background-image: url("../background/cms-banner03.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.img3{
+    width: 62px;
+}
+
+.img4{
+    width: 50px;
+}
+
+.img5{
+    width: 55px;
+    margin-bottom: 2px;
+}
+
+.text3{
+    font-weight: 600;
+    margin: 5px 0px;
+    font-size: 22px;
+}
+
+.text4{
+    color: gray;
+    font-size: 16px;
+    margin: 0%;
+}
+
+.divbox3{
+    display: flex;
+    justify-content: center;
+    gap: 130px;
+    align-items: center;
+    margin-top: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.subbox0{
+    display: flex;
+    justify-content: center;
+    gap: 130px;
+    align-items: center;
+    margin-top: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.subbox1{
+    width: 50%;
+    background-color: #f5f5f5;
+    padding: 80px 0px 0px 70px;
+    height: 360px;
+}
+
+.subbox2{
+    width: 50%;
+    height: 440px;
+    background-image: url(../image/side-banner02.jpg);
+    background-size: cover;
+}
+.mainbox0{
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.text5{
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.text6{
+    color: gray;
+    font-size: 16px;
+
+}
+
+.divbox4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.img6{
+    width: 256px;
+    height: 256px;
+}
+
+.subbox3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 100px;
+}
+
+.footerbox{
+    background-color: #f5f5f5;
+    margin-top: 100px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.subfooter{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.text7{
+    margin: 8px 0px;
+    font-size: 15px;
+}
+
+.tag{
+    text-decoration: none;
+    color: black;
+    display: flex;
+    margin: 13px 0px;
+    font-size: 15px;
+}
+
+#icon0{
+    margin: 25px 15px 0px 0px;
+}
+
+.searchbar0{
+    padding: 10px;
+    font-size: 15px;
+    border: none;
+    width: 250px;
+    color: rgb(243, 243, 243);
+    margin: 15px 0px;
+}
+
+.text8{
+    font-size: 19px;
+    font-weight: 500;
+    padding: 20px 0px 15px 0px;
+}
+
+.subfooter0{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 90px 20px 90px;
+}
+
+.footer0{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+}
